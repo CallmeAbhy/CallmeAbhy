@@ -1,7 +1,7 @@
-[![MasterHead](https://designerapp.officeapps.live.com/designerapp/Media.ashx/?id=f627d7a2-eff6-425d-9f69-e3e65a383f84.gif&fileToken=89449573-7438-46fa-af6a-c7d412c93f0e&dcHint=IndiaCentral)](https://www.linkedin.com/in/abhaydusane/)
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://www.linkedin.com/in/abhaydusane/)
 <h1 align="center">Hi 👋, I'm Abhay Hitendra Dusane</h1>
 <h3 align="center">Passionate frontend developer | Problem Solver | Constant Learner</h3>
-<img align="right" alt="Coding" width="400" src="https://designerapp.officeapps.live.com/designerapp/Media.ashx/?id=0eca48fd-9f68-4335-9cd7-822045090fc7.gif&fileToken=0ae6fcaa-b1ca-417a-b07e-a91023aadf90&dcHint=IndiaCentral"> 
+<img align="right" alt="Coding" width="400" src="https://www.iventra.com/assets/images/bg/back-end-developer.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmeabhy&label=Profile%20views&color=0e75b6&style=flat" alt="callmeabhy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
